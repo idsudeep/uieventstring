@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">classview</string>
+    <string name="stringR">Fetch String from resource </string>
+</resources>
